@@ -13,7 +13,7 @@
         A sensor demonstration application
     </description>
         
-        <!-- the plugin I downloaded -->
+        <!-- the plugin I downloaded, maybe -->
         <plugin name="cordova-plugin-device-motion" />
 
     <author href="http://www.worcester.ac.uk/discover/chris-bowers.html" email="c.bowers@worc.ac.uk">
