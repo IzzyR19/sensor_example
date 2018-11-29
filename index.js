@@ -25,7 +25,7 @@ $(document).on("pagecreate", "#page1", function () {
 	
 	});
 	
-    alert('This is proof the app works it is just the plugin');
+    alert('This is proof the app works it is just the plugin that sucks');
     
 });
 
